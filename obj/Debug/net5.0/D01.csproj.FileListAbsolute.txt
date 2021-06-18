@@ -1,0 +1,17 @@
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/D01
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/D01.deps.json
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/D01.runtimeconfig.json
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/D01.runtimeconfig.dev.json
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/D01.dll
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/ref/D01.dll
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/D01.pdb
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.csproj.AssemblyReference.cache
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.AssemblyInfoInputs.cache
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.AssemblyInfo.cs
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.csproj.CoreCompileInputs.cache
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.dll
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/ref/D01.dll
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.pdb
+/home/arthur/RiderProjects/AoCProjetcs/obj/Debug/net5.0/D01.genruntimeconfig.cache
+/home/arthur/RiderProjects/AoCProjetcs/bin/Debug/net5.0/InputNumber.txt
